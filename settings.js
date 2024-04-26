@@ -16,16 +16,16 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
+ //  * @project_name : Mr Bot-V3-MD
  //  * @author : Awmtea Polythene
  //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//   * @description : Mr Bot-V3 ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
+//Instagram: omoma_cck8
+//Telegram: t.me/awmteapolythene
 //GitHub: @salmanytofficial
 //WhatsApp: +918787651195
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
@@ -52,7 +52,7 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'Mr.Bot-V3-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '+918787651195' //ur owner number
+global.ownernumber = process.env.SUDO || '918787651195' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Awmtea Polythene' //ur owner name
 //________________________________________________________________________________________________________
@@ -70,20 +70,20 @@ global.packname = process.env.PACK_NAME || "MR.BOT-𝐕𝟑"
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY Awmtea Polythene"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "+918787651195@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "918787651195@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["+918787651195"] // Premium User
+global.premium = process.env.GL_VIP || ["918787651195"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
 
 //bot sett
 //________________________________________________________________________________________________________
-global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
+global.typemenu = process.env.MENU_DESIGN || 'v8' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
-global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
+global.typereply = process.env.REPLY_TYPE || 'v3' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
 global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country code
 //________________________________________________________________________________________________________
